@@ -4,3 +4,4 @@
 __pycache__/
 ntm/__pycache__/
 .ipynb_checkpoints/
+*.gif
